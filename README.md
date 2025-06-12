@@ -10,8 +10,6 @@ I'm a Data Engineer and Analyst with experience in health data systems, complian
 
 📊 Power BI Dashboard Case: Real-time report creation using Power Query and DAX.
 
-📈 Crypto ETL Pipeline: API → Python ETL → SQL → Dashboard.
-
 🧠 Customer Segmentation: K-Means clustering on ANZ bank data.
 
 📫 Contact
