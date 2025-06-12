@@ -1,32 +1,21 @@
-### Hi there 👋, I am moses
+👋 Hi, I'm Moses Wong
 
-My objective
-Seeking a challenging IT role where my expertise in data management, system-focused compliance, and 
-proficiency in a range of programming languages and analytical tools can contribute to driving technological innovation 
-and enhancing operational efficiency within a dynamic and collaborative work environment
+I'm a Data Engineer and Analyst with experience in health data systems, compliance automation, and reporting. I enjoy turning raw data into actionable insights using Python, SQL, Power BI, and automation tools.
 
-Skills:
+🔧 Projects
 
-Proficient in SQL for database management and querying.
-Extensive experience with Power BI, including DAX for advanced data analysis and visualization. 
-Skilled in MS Access for database development and management. 
-Proficient in web development technologies: HTML, CSS, and JavaScript for 
-front-end development. 
+🧮 Banking Transaction Monitoring: Python & SQL logic to detect high-risk transactions.
 
-📫 How to reach me:
-LinkedIn @Moses Wong
+👥 Bank Customer Behavior Analysis: Simulated transaction data + Power BI visualisation.
 
-<!--
-**kaho1156/kaho1156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Power BI Dashboard Case: Real-time report creation using Power Query and DAX.
 
-Here are some ideas to get you started:
+📈 Crypto ETL Pipeline: API → Python ETL → SQL → Dashboard.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Customer Segmentation: K-Means clustering on ANZ bank data.
+
+📫 Contact
+
+Email: wongmoses54@gmail.com
+
+LinkedIn/GitHub: github.com/kaho1156
